@@ -1,2 +1,5 @@
 test.txt 생성
 master add
+branch_test modify
+branch test modify
+branch test add
